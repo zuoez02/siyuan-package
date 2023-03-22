@@ -2,5 +2,6 @@
     "name": "siyuan",
     "author": "zuoez02",
     "types": "siyuan.d.ts",
-    "version": "0.3.17"
+    "version": "0.3.18",
+    "repository": "https://github.com/zuoez02/siyuan-package"
 }

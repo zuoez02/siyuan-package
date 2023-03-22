@@ -76,6 +76,7 @@ declare module 'siyuan/api/client-api' {
     export function addToolbarLeft(el: Element): void;
     export function addToolbarRight(el: Element): void;
     export function addSettingTab(settingTab: ISettingTab): void;
+    export const createLogger: (name: string) => import("zhi-log").DefaultLogger;
 }
 
 declare module 'siyuan/internal/classes/menu' {
